@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aina\\Documents\\UTAD\\Master\\Q1\\ProgramacionAvanzada\\EntregaOpenMP\\Ejercicio6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9E05FD-60C5-4006-A1BF-928B41CF389E}|Ejercicio6\\Ejercicio6.vcxproj|C:\\Users\\Aina\\Documents\\UTAD\\Master\\Q1\\ProgramacionAvanzada\\EntregaOpenMP\\Ejercicio6\\Ejercicio6\\Ejercicio6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C9E05FD-60C5-4006-A1BF-928B41CF389E}|Ejercicio6\\Ejercicio6.vcxproj|solutionrelative:Ejercicio6\\Ejercicio6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio6.cpp",
+              "DocumentMoniker": "C:\\Users\\Aina\\Documents\\UTAD\\Master\\Q1\\ProgramacionAvanzada\\EntregaOpenMP\\Ejercicio6\\Ejercicio6\\Ejercicio6.cpp",
+              "RelativeDocumentMoniker": "Ejercicio6\\Ejercicio6.cpp",
+              "ToolTip": "C:\\Users\\Aina\\Documents\\UTAD\\Master\\Q1\\ProgramacionAvanzada\\EntregaOpenMP\\Ejercicio6\\Ejercicio6\\Ejercicio6.cpp",
+              "RelativeToolTip": "Ejercicio6\\Ejercicio6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T17:18:35.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

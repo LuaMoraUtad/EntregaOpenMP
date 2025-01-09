@@ -1,0 +1,3 @@
+﻿  Ejercicio7.cpp
+C:\Users\Aina\Documents\UTAD\Master\Q1\ProgramacionAvanzada\EntregaOpenMP\Ejercicio7\Ejercicio7\Ejercicio7.cpp(17,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Ejercicio7.vcxproj -> C:\Users\Aina\Documents\UTAD\Master\Q1\ProgramacionAvanzada\EntregaOpenMP\Ejercicio7\x64\Debug\Ejercicio7.exe

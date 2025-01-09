@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aina\\Documents\\UTAD\\Master\\Q1\\ProgramacionAvanzada\\EntregaOpenMP\\Ejercicio5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A32265F-922B-4618-893F-11E7631330B5}|Ejercicio5\\Ejercicio5.vcxproj|C:\\Users\\Aina\\Documents\\UTAD\\Master\\Q1\\ProgramacionAvanzada\\EntregaOpenMP\\Ejercicio5\\Ejercicio5\\Ejercicio5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A32265F-922B-4618-893F-11E7631330B5}|Ejercicio5\\Ejercicio5.vcxproj|solutionrelative:Ejercicio5\\Ejercicio5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio5.cpp",
+              "DocumentMoniker": "C:\\Users\\Aina\\Documents\\UTAD\\Master\\Q1\\ProgramacionAvanzada\\EntregaOpenMP\\Ejercicio5\\Ejercicio5\\Ejercicio5.cpp",
+              "RelativeDocumentMoniker": "Ejercicio5\\Ejercicio5.cpp",
+              "ToolTip": "C:\\Users\\Aina\\Documents\\UTAD\\Master\\Q1\\ProgramacionAvanzada\\EntregaOpenMP\\Ejercicio5\\Ejercicio5\\Ejercicio5.cpp",
+              "RelativeToolTip": "Ejercicio5\\Ejercicio5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T17:18:11.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

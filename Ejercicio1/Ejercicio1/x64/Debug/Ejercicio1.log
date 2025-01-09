@@ -1,0 +1,5 @@
+﻿  Ejercicio1.cpp
+C:\Users\Aina\Documents\UTAD\Master\Q1\ProgramacionAvanzada\EntregaOpenMP\Ejercicio1\Ejercicio1\Ejercicio1.cpp(22,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Aina\Documents\UTAD\Master\Q1\ProgramacionAvanzada\EntregaOpenMP\Ejercicio1\Ejercicio1\Ejercicio1.cpp(32,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Aina\Documents\UTAD\Master\Q1\ProgramacionAvanzada\EntregaOpenMP\Ejercicio1\Ejercicio1\Ejercicio1.cpp(45,23): warning C4018: '<': no coinciden signed/unsigned
+  Ejercicio1.vcxproj -> C:\Users\Aina\Documents\UTAD\Master\Q1\ProgramacionAvanzada\EntregaOpenMP\Ejercicio1\x64\Debug\Ejercicio1.exe
